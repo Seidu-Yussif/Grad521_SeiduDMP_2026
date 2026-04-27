@@ -15,3 +15,5 @@ Data is stored across several locations during the project. Raw data is first st
 Data will be deposited in the Digital Porous Media repository upon publication of research. 
 # Archiving and Preservation
 To ensure long-term access, all final processed data is archived in Box with proper organization and naming conventions
+
+[Click here to learn about project](https://github.com/Seidu-Yussif/Grad521_SeiduDMP_2026/blob/main/README.md)
