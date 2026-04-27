@@ -16,4 +16,4 @@ Data will be deposited in the Digital Porous Media repository upon publication o
 # Archiving and Preservation
 To ensure long-term access, all final processed data is archived in Box with proper organization and naming conventions
 
-[Click here to learn about project](https://github.com/Seidu-Yussif/Grad521_SeiduDMP_2026/blob/main/README.md)
+[Click here to learn about project](README.md)
