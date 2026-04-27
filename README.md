@@ -1,8 +1,7 @@
 # Grad521_SeiduDMP_2026
 
-My research is in micro-computed tomography (micro-CT) imaging of porous media, at the intersection of environmental engineering and energy resources. 
-I study biofilms; communities of microorganisms that grow on surfaces inside porous materials such as soils, rocks, and engineered filters.
-Biofilms are important because they can be both beneficial and harmful: they support processes like bioremediation and wastewater treatment, but they can also clog pore spaces in subsurface environments such as oil and gas reservoirs.
+This research focuses on using micro-computed tomography (micro-CT) to study how biofilms—communities of microorganisms—grow and behave inside complex porous materials like soils and rocks. Because traditional imaging methods can damage biofilms during repeated scans, the work develops low-dose imaging combined with deep learning to restore image quality and enable time-resolved (4D) observation. It also applies advanced deep learning techniques to improve segmentation, accurately distinguishing between multiple phases (e.g., solid, օդ, biofilm, and fluids) within the data. By integrating imaging and computational modeling, this research aims to better understand biofilm dynamics in realistic environments relevant to environmental engineering and energy systems.
+
 ## Goal
 The goal of the project is to advance scientific discovery in how biofilms interact in with their environment in the subsurface.
 
